@@ -1,0 +1,38 @@
+window {
+	font-size: 20px;
+	//border: 0px solid rgba(196, 167, 231, 0.8);
+	border-radius: 4px;
+	background-color: #1a1b26; 
+}
+
+#input {
+	color: #156064; 
+	margin: 4px 150px 10px 150px;
+	font-size: 20px;
+	border: 0px solid #ebbcba;
+	border-radius: 15px;
+	background-color: #000000;
+}
+
+#outer-box {
+	margin: 20px;
+}
+
+#text {
+    padding: 0px 10px;
+	color: #156064;
+}
+
+#entry:selected {
+	margin: 3px 0px;
+	border-radius: 15px;
+	background-color: rgba(0, 0, 0, 1);
+}
+
+#img:selected {
+    background: none;
+}
+
+#text:selected {
+    background: none;
+}
